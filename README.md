@@ -1,5 +1,5 @@
 # Chocolate iTerm 🍫
-The Chocolate color scheme for iTerm2.
+The Chocolate color scheme for iTerm.
 
 * [iTerm2 for macOS](https://iterm2.com/)
 
