@@ -5,7 +5,9 @@ The Chocolate color scheme for iTerm2.
 
 * [Chocolate color scheme](https://gitlab.com/snakedye/chocolate)
 
-* [Chocolate for Firefox](https://addons.mozilla.org/sv-SE/firefox/addon/chocolate-theme-firefox/)
+* [Chocolate for Firefox](https://addons.mozilla.org/sv-SE/firefox/addon/chocolate-theme-firefox/)<br>
+
+*Chocolate.itermcolors*
 
 <img width="261" height="84" alt="ChocolateColors1" src="https://github.com/user-attachments/assets/4ddc3a7a-1c79-4088-a9d7-c9ad41c949b8" />
 
