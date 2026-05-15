@@ -1,7 +1,7 @@
 # Chocolate iTerm
 The Chocolate color scheme for iTerm2.
 
-<img width="103" height="103" alt="Chocolate" src="https://github.com/user-attachments/assets/0c49ec00-4fb9-45ee-9237-55a3ee2b29f0" /><br/>
+<img width="159" height="103" alt="Chocolate" src="https://github.com/user-attachments/assets/2d32d841-1110-4385-9e1c-03c3c5ef63dc" /><br/>
 
 * [iTerm2 for macOS](https://iterm2.com/)
 
