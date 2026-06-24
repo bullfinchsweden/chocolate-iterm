@@ -5,7 +5,7 @@ The Chocolate color scheme for iTerm2.
 
 * [iTerm2 for macOS](https://iterm2.com/)
 
-* [Chocolate color scheme](https://gitlab.com/snakedye/chocolate)<br/>
+* [Chocolate color palette](https://gitlab.com/snakedye/chocolate)<br/>
 
 *Chocolate.itermcolors*
 
