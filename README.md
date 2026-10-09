@@ -7,6 +7,8 @@ The Chocolate color scheme for iTerm2.
 
 * [Chocolate color palette](https://gitlab.com/snakedye/chocolate)<br/>
 
+<img src="Images/Chocolate.jpg" width="768" height="320" /><br/>
+
 *Chocolate.itermcolors*
 
 <img src="Images/ChocolateColors1.png" width="260" height="83" /><br/>
