@@ -11,4 +11,4 @@ The Chocolate color scheme for iTerm2.
 
 *Chocolate.itermcolors*
 
-<img src="Images/ChocolateGhostty.png" width="764.5" height="376.5" />
+<img src="Images/ChocolateiTerm.png" width="764.5" height="376.5" />
